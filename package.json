@@ -1,0 +1,14 @@
+{
+  "name": "gemini-cheatsheet-generator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.0"
+  },
+  "devDependencies": {
+    "vercel": "^48.0.0"
+  }
+}
